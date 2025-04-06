@@ -1,4 +1,12 @@
-## Hi there 👋
+Hi there 👋
+<img align="right" src="https://github-readme-stats-jade-nine-24.vercel.app/api/top-langs/?username=Rea1-ms&theme=radical&show_icons=true&include_all_commits=true&count_private=true&layout=compact" />
+
+I am an undergraduate student.
+
+- 🥵 I live in Hangzhou.
+- 🌱 I love python and am currently learning Android.
+
+
 
 <!--
 **Rea1-ms/Rea1-ms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
